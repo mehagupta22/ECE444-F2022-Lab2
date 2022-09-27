@@ -26,4 +26,4 @@ Commit messages:
 
 Webpage:
 
-<img width="417" alt="image" src="https://user-images.githubusercontent.com/62436455/192654502-ff6f0732-249d-4135-9951-f8d7566dbaae.png">
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/62436455/192657276-96be6176-17c0-4568-8017-404c2f338310.png">

@@ -19,3 +19,9 @@ Commit messages:
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/62436455/192652142-bf45964a-9c73-46c1-9abd-0f5bc5642eb9.png">
 
 ## Activity-3
+
+Commit messages:
+
+<img width="904" alt="image" src="https://user-images.githubusercontent.com/62436455/192654442-7447a802-ecf6-420f-bfb1-fc29df023284.png">
+
+

@@ -34,3 +34,6 @@ Webpage:
 
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/62436455/192660858-2f01bf0a-bd9b-4c15-8431-b88839022680.png">
 
+Commit messages (starting with "Completed..."):
+
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/62436455/192660996-a9dae5bc-1047-46dd-8211-9b0b24efce99.png">

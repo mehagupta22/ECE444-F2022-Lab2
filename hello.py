@@ -3,7 +3,7 @@ from flask_bootstrap import Bootstrap
 from flask_moment import Moment
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
-from wtforms.validators import DataRequired
+from wtforms.validators import DataRequired, Email
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hard to guess string'
@@ -14,7 +14,7 @@ moment = Moment(app)
 
 class NameForm(FlaskForm):
     name = StringField('What is your name?', validators=[DataRequired()])
-    email = StringField('What is your UofT email address?', validators=[DataRequired()])
+    email = StringField('What is your UofT email address?', validators=[Email("Please include an '@' in the email address.")])
     submit = SubmitField('Submit')
 
 
@@ -36,7 +36,7 @@ def index():
         old_email = session.get('email')
         if old_name is not None and old_name != form.name.data:
             flash('Looks like you have changed your name!')
-        if old_email is not None and old_name != form.email.data:
+        if old_email is not None and old_email != form.email.data:
             flash('Looks like you have changed your email!')
         session['name'] = form.name.data
         session['email'] = form.email.data

@@ -31,3 +31,13 @@ Webpage:
 ## Activity-4
 
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/62436455/192659709-e2604528-6d9b-4f29-8c7b-ad3567a4cf8d.png">
+
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/62436455/192661431-cfb576f8-6de8-4807-9f6a-b6fe8379a86f.png">
+
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/62436455/192678066-1eb03969-7ab7-4a45-9714-690f75633677.png">
+
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/62436455/192678185-54af42ef-28f4-4a86-b3c5-483ee442bed9.png">
+
+Commit messages (starting with "Completed..."):
+
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/62436455/192660996-a9dae5bc-1047-46dd-8211-9b0b24efce99.png">
